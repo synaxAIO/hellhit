@@ -2,7 +2,7 @@
 ## Cookie Stealer
 
 <p align="center">
-  <img width="300" height="300" src="[https://media.discordapp.net/attachments/1096311735134203907/1096320215987540028/image.png]">
+  <img width="300" height="300" src="[https://media.discordapp.net/attachments/1096311735134203907/1096339847934922822/MOSHED-2023-4-14-10-43-0.gif?width=571&height=571]">
 </p>
 
 ## Installation
