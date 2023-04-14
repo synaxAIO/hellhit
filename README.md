@@ -1,7 +1,7 @@
 # HellHit
 ## Cookie Stealer
 
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt][[https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png](https://github.com/synaxAIO/hellhit/blob/main/MOSHED-2023-4-14-10-43-0.gif?raw=true)]
 
 ## Installation
 ```bash
