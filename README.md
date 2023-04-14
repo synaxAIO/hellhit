@@ -19,8 +19,8 @@ python builder.py
 
 # HellHit collects :
 ```
-## 1) ip
-## 2) screenshot
-## 3) webcam photos
-## 4) roblox cookies
+1) ip-address
+2) screenshot
+3) webcam photos
+4) roblox cookies
 ```
