@@ -13,4 +13,10 @@ python install.py
 ```
 ## 3) open builder.py 
 ## 4) enter your webhook and wait 
-### your stiller will be in the dist folder
+## your stiller will be in the dist folder
+
+# HellHit collects :
+## 1) ip
+## 2) screenshot
+## 3) webcam photos
+## 4) roblox cookies
