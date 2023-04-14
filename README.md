@@ -1,9 +1,7 @@
 # HellHit
 ## Cookie Stealer
 
-<p align="center">
-  ![image](https://user-images.githubusercontent.com/129850161/231978710-f483b2b7-59e3-46c4-8b74-c4992fa25a23.png)
-</p>
+ ![image](https://user-images.githubusercontent.com/129850161/231978710-f483b2b7-59e3-46c4-8b74-c4992fa25a23.png)
 
 ## Installation
 ```bash
