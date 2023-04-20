@@ -3,10 +3,8 @@
     <img alt="HellHit - Stealer" src="MOSHED-2023-4-14-10-43-0.gif"/>
   </a>
 </p>
-
-<h1 align="center">
-  HellHit - Stealer
-</h1>
+[![Build Status][travis-image]][travis-url]
+[![Downloads Stats][npm-downloads]][npm-url]
 
 ## Installation
 ```bash
