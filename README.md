@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/synaxAIO/hellhit/blob/main/MOSHED-2023-4-14-10-43-0.gif?raw=true">
-    <img alt="HellHit - Stealer" src="./src/images/MOSHED-2023-4-14-10-43-0.gif"/>
+    <img alt="HellHit - Stealer" src="MOSHED-2023-4-14-10-43-0.gif"/>
   </a>
 </p>
 
