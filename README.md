@@ -1,5 +1,6 @@
-# HellHit
-## Cookie Stealer
+<h1 align="center">
+  HellHit - Stealer
+</h1>
 
 ![Image alt](https://github.com/synaxAIO/hellhit/blob/main/MOSHED-2023-4-14-10-43-0.gif?raw=true)
 
